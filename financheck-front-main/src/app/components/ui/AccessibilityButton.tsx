@@ -19,3 +19,5 @@ const AccessibilityButton = () => {
     </div>
   );
 };
+
+export default AccessibilityButton;
