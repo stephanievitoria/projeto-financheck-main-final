@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "http://localhost:8082"
+  baseURL: "https://projeto-finacheck-main-back.onrender.com"
 });
 
 export default api;
